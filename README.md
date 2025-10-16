@@ -5,5 +5,4 @@
 **Project Description:**  
 This project is part of HNG13 DevOps track. It involves setting up an NGINX web server and deploying a simple webpage accessible publicly.  
 
-**Server IP / Domain:**  
-(Will add after deployment)
+**Server IP / Domain:**  http://51.21.180.197
